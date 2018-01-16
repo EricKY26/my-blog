@@ -1,0 +1,16 @@
+Color:#3F7FBF
+
+Fonts:
+
+Embed Font
+To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document.
+<link href="https://fonts.googleapis.com/css?family=Anton|Lobster|Pacifico|Raleway|Satisfy|Ubuntu" rel="stylesheet">
+
+Specify in CSS
+Use the following CSS rules to specify these families:
+font-family: 'Raleway', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Anton', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Satisfy', cursive;
